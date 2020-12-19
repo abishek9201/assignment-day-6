@@ -1,2 +1,2 @@
-# assignment-day-6
+# assignment-day-7
 day 6
